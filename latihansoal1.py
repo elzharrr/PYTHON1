@@ -23,7 +23,7 @@ total = harga * jumlah
 tipeharga = type(harga)
 tipejumlah = type(jumlah)
 
-print(f"Total harga untuk {jumlah} {barang} adalah: Rp {total}")
+print(f"Kamu membeli {barang} sebanyak {jumlah} dengan harga Rp. {total}.")
 
 print("========")
 print("Tipe harga:", tipeharga)
